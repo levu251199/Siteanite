@@ -1,0 +1,217 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: url("../img/background.jpg") fixed center;
+    background-size: 100% auto;
+}
+
+a {
+    text-decoration: none;
+/important;
+}
+
+/* === Header === */
+#header-wrapper {
+    background: #1e1e1e;
+    width: 100%;
+}
+
+#left-head {
+    text-align: center;
+}
+
+#left-head-nav {
+    height: 70px;
+    position: absolute;
+    top: 7%;
+    left: 10%;
+}
+
+#login-section {
+    margin-bottom: 20px;
+}
+
+#login-section a {
+    color: whitesmoke;
+    margin: 5px;
+}
+
+#login-section a:hover {
+    color: #e1c055;
+    transition: all 0.4s;
+}
+
+#login-section i {
+    color: #e1c055;
+    text-align: center;
+}
+
+#language-section a {
+    color: #e1c055;
+    margin: 10px;
+}
+
+#mid-head {
+    text-align: center;
+}
+
+#right-head {
+    text-align: center;
+}
+
+#order {
+    position: absolute;
+    top: 10%;
+    right: 10%;
+}
+
+#order-btn {
+    background: #fdd75f;
+    color: #3e403e;
+    font-weight: bolder;
+    padding: 15px 30px;
+    border-radius: 10px;
+}
+
+#order-btn:hover {
+    background: whitesmoke;
+    transition: all 0.4s;
+}
+
+/* End Header*/
+
+/* Menu Bar */
+#menu-wrapper {
+    background: #1e1e1e;
+    width: 100%;
+    height: 40px;
+}
+
+#menu-element {
+    color: white;
+    text-align: center;
+}
+
+#menu-element a {
+    font-size: 20px;
+    color: #b4b4b4;
+    margin: 10px;
+}
+
+#menu-element a:hover {
+    border-bottom: 2px dashed saddlebrown;
+    transition: all 0.2s;
+}
+
+/*END OF MENU BAR*/
+
+
+/* CONTENT */
+#content-wrapper {
+    margin-top: 20px;
+}
+
+/* END OF CONTENT */
+
+/* INFORMATION */
+#info-wrapper {
+    background: rgba(0, 0, 0, 0.3);
+    display: table;
+    border-bottom: 1px solid whitesmoke;
+    text-align: center;
+}
+
+h3 {
+    color: #b4b4b4;
+}
+
+.info-col {
+    display: table-cell;
+}
+
+#menu-shortcut-element a, #address-shortcut-element a {
+    color: #e1c055;
+}
+
+#feedback-shortcut-element a i {
+    color: #00ad5f;
+    margin-right: 10px;
+}
+
+/* END OF INFORMATION*/
+
+/* FOOTER */
+#footer-wrapper {
+    text-align: center;
+}
+
+/* CONTENT */
+.content {
+    width: 550px;
+    padding: 20px;
+    margin: 30px;
+    background: rgba(0, 0, 0, 0.35);
+    height: auto;
+}
+
+.button {
+    margin-top: 10px;
+    background: darkred;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    width: 180px;
+    height: 40px;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: bold;
+    transition: all 0.4s;
+}
+
+.button:hover {
+    background: white;
+    color: black;
+}
+
+.img {
+    float: left;
+}
+
+.product-content {
+    float: right;
+}
+
+.content-text {
+    width: 57%;
+}
+
+.option-input-pizza {
+    width: auto;
+    height: 40px;
+    border-radius: 5px;
+}
+
+#pagination .btn-pagi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    border-radius: 50%;
+    background: white;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    transition: .3s;
+}
+
+#pagination .btn-pagi:hover {
+    background: rgba(120, 214, 169, 1);
+}
+
+#pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4px 0;
+}

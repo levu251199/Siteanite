@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#cart-title{
+    font-size: 40px;
+}
+
+a{
+    text-decoration: none;
+}
+
+#total-section{
+    font-size: 17px;
+    text-align: center;
+}
+
+#button-group{
+    border-spacing:10px;
+    text-align: center;
+}
+
+.ok-wrap, .back-wrap{
+    background: #d3634e;
+    border-radius: 5px;
+    margin: 70px;
+    padding: 10px 1px;
+}
+
+.ok-wrap:hover, .back-wrap:hover{
+    background: crimson;
+    transition: all 0.4s;
+}
+
+.ok-btn, .back-btn{
+    color: whitesmoke;
+    padding: 10px 20px;
+}

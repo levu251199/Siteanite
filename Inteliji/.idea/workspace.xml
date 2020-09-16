@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Inteliji:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2c0077c-a32e-4af2-8564-75146aabbd28" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Inteliji" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="Jsp File" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;/br&gt;</find>
+      <find>data-aos=&quot;fade-up&quot;</find>
+      <find>data-aos-duration=&quot;1500&quot;</find>
+      <find>data-aos=&quot;fade-up&quot; data-aos-duration=&quot;2000&quot;</find>
+      <find>width=&quot;50%&quot;</find>
+      <find>width=&quot;30%&quot;</find>
+      <find>.html</find>
+      <find>width=&quot;100%&quot;</find>
+      <find>text-area</find>
+      <find>close</find>
+      <find>&lt;td&gt;&lt;input type=&quot;checkbox&quot;&gt;&lt;/td&gt;</find>
+      <find>../html</find>
+      <find>small</find>
+      <find>sanphamphu</find>
+      <find>&lt;div class=&quot;store&quot;&gt;</find>
+      <find>sign</find>
+      <find>login-acc</find>
+      <find>order-form</find>
+      <find>content</find>
+      <find>../</find>
+      <find>double</find>
+      <find>h4</find>
+      <find>line-height</find>
+      <find>input-ico</find>
+      <find>line-he</find>
+      <find>AddToca</find>
+      <find>back-btn</find>
+      <find>back-wrap</find>
+      <find>ok</find>
+      <find>title</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>class=&quot;img&quot;</replace>
+      <replace>class=&quot;content-text product-content&quot;</replace>
+      <replace>SÚP</replace>
+      <replace>width=&quot;100%&quot;</replace>
+      <replace>&lt;a&gt;</replace>
+      <replace>&lt;br&gt;</replace>
+      <replace>data-aos=&quot;flip-left&quot;</replace>
+      <replace>data-aos-duration=&quot;2000&quot;</replace>
+      <replace>width=&quot;50%&quot;</replace>
+      <replace>width=&quot;30%&quot;</replace>
+      <replace>.jsp</replace>
+      <replace>width=&quot;200&quot; height=&quot;200&quot;</replace>
+      <replace>../sys</replace>
+      <replace>&lt;div class=&quot;store&quot; data-aos=&quot;fade-right&quot;&gt;</replace>
+      <replace>String</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/website/model/Product.java" />
+        <option value="$PROJECT_DIR$/src/website/controller/AddToCart.java" />
+        <option value="$PROJECT_DIR$/src/website/model/Cart.java" />
+        <option value="$PROJECT_DIR$/src/website/controller/delProduct.java" />
+        <option value="$PROJECT_DIR$/src/website/controller/OrdersController.java" />
+        <option value="$PROJECT_DIR$/src/website/model/Orders.java" />
+        <option value="$PROJECT_DIR$/src/website/controller/AddProduct.java" />
+        <option value="$PROJECT_DIR$/src/website/controller/DeleteProduct.java" />
+        <option value="$PROJECT_DIR$/web/Project Final/sys/admin-home.jsp" />
+        <option value="$PROJECT_DIR$/web/Project Final/sys/admin-combo-fix.jsp" />
+        <option value="$PROJECT_DIR$/web/Project Final/sys/admin-combo-add.jsp" />
+        <option value="$PROJECT_DIR$/web/Project Final/css/admin-form.css" />
+        <option value="$PROJECT_DIR$/web/Project Final/sys/admin-employee-add.jsp" />
+        <option value="$PROJECT_DIR$/web/Project Final/sys/admin-pizza-add.jsp" />
+        <option value="$PROJECT_DIR$/web/Project Final/sys/admin-pizza-fix.jsp" />
+        <option value="$PROJECT_DIR$/web/Project Final/sys/admin-small-product-add.jsp" />
+        <option value="$PROJECT_DIR$/web/Project Final/sys/admin-small-product-fix.jsp" />
+        <option value="$PROJECT_DIR$/web/Project Final/sys/admin-user-add.jsp" />
+        <option value="$PROJECT_DIR$/web/Project Final/sys/admin-employee.jsp" />
+        <option value="$PROJECT_DIR$/web/Project Final/sys/admin-pizza.jsp" />
+        <option value="$PROJECT_DIR$/web/Project Final/sys/admin-combo.jsp" />
+        <option value="$PROJECT_DIR$/web/Project Final/sys/admin-user.jsp" />
+        <option value="$PROJECT_DIR$/web/Project Final/sys/admin-small-product.jsp" />
+        <option value="$PROJECT_DIR$/src/website/controller/CartLogin.java" />
+        <option value="$PROJECT_DIR$/web/Project Final/sys/index.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/config.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/web/Project Final/sys/admin-slider.jsp" />
+        <option value="$PROJECT_DIR$/web/Project Final/css/admin.css" />
+        <option value="$PROJECT_DIR$/web/Project Final/include-files/header-admin.jsp" />
+        <option value="$PROJECT_DIR$/web/Project Final/sys/admin-employee-fix.jsp" />
+        <option value="$PROJECT_DIR$/web/Project Final/sys/manage-account.html" />
+        <option value="$PROJECT_DIR$/src/website/dao/AccountDAO.java" />
+        <option value="$PROJECT_DIR$/web/Project Final/sys/admin-user-fix.jsp" />
+        <option value="$PROJECT_DIR$/src/website/controller/ManageAccount.java" />
+        <option value="$PROJECT_DIR$/src/website/controller/FixAccount.java" />
+        <option value="$PROJECT_DIR$/web/Project Final/sys/manage-account.jsp" />
+        <option value="$PROJECT_DIR$/web/Project Final/sys/bill.html" />
+        <option value="$PROJECT_DIR$/src/website/controller/createCart.java" />
+        <option value="$PROJECT_DIR$/src/website/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/web/Project Final/css/cart.css" />
+        <option value="$PROJECT_DIR$/web/Project Final/sys/cart.jsp" />
+        <option value="$PROJECT_DIR$/web/Project Final/css/order.css" />
+        <option value="$PROJECT_DIR$/src/website/model/Bill.java" />
+        <option value="$PROJECT_DIR$/web/Project Final/include-files/header-user.jsp" />
+        <option value="$PROJECT_DIR$/web/Project Final/css/main-style.css" />
+        <option value="$PROJECT_DIR$/src/website/controller/BillController.java" />
+        <option value="$PROJECT_DIR$/src/website/admin/controller/CartController.java" />
+        <option value="$PROJECT_DIR$/web/Project Final/sys/admin-order.jsp" />
+        <option value="$PROJECT_DIR$/web/Project Final/sys/bill.jsp" />
+        <option value="$PROJECT_DIR$/src/website/dao/BillDAO.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="361" />
+    <option name="width" value="821" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Inteliji" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Inteliji" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Inteliji" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Inteliji" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Inteliji" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Inteliji" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Inteliji" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Inteliji" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Inteliji" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Inteliji" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Inteliji" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Inteliji" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Inteliji" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Inteliji" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Inteliji" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Inteliji" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Inteliji" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Inteliji" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Inteliji" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Inteliji" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Inteliji" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Inteliji" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="Project Final" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Inteliji" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Inteliji" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="Project Final" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Inteliji" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Inteliji" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="Project Final" type="462c0819:PsiDirectoryNode" />
+              <item name="include-files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Inteliji" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Inteliji" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="Project Final" type="462c0819:PsiDirectoryNode" />
+              <item name="sys" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/Project Final/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.18147014" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Workspace\Inteliji\web\Project Final\sys" />
+      <recent name="D:\Workspace\Inteliji\web" />
+      <recent name="D:\Workspace\Inteliji\web\Project Final" />
+      <recent name="D:\Workspace\Inteliji\web\Siteanite\include-file" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="website.model" />
+      <recent name="website.dao" />
+      <recent name="website.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Workspace\Inteliji\web\Project Final\img" />
+      <recent name="D:\Workspace\Inteliji\web" />
+      <recent name="D:\Workspace\Inteliji\web\WEB-INF" />
+      <recent name="D:\Workspace\Inteliji\web\Project Final\lib" />
+      <recent name="D:\Workspace\Inteliji\src\website\controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.TOMCAT">
+    <configuration name="ConnectionDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Libs.ConnectionDB" />
+      <module name="Inteliji" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="website.admin.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginDAO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="website.dao.LoginDAO" />
+      <module name="Inteliji" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="website.admin.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TOMCAT" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.45" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="Inteliji:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Inteliji" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Inteliji" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50968" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Inteliji:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ConnectionDB" />
+      <item itemvalue="Application.LoginDAO" />
+      <item itemvalue="Tomcat Server.TOMCAT" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoginDAO" />
+        <item itemvalue="Application.ConnectionDB" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2c0077c-a32e-4af2-8564-75146aabbd28" name="Default Changelist" comment="" />
+      <created>1571492389377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571492389377</updated>
+      <workItem from="1571492393896" duration="127000" />
+      <workItem from="1571492553503" duration="644000" />
+      <workItem from="1571493238891" duration="32000" />
+      <workItem from="1571498234588" duration="174000" />
+      <workItem from="1571536553102" duration="3467000" />
+      <workItem from="1571543450193" duration="1747000" />
+      <workItem from="1571578699364" duration="3303000" />
+      <workItem from="1571625197944" duration="580000" />
+      <workItem from="1571625905781" duration="1376000" />
+      <workItem from="1571662228109" duration="339000" />
+      <workItem from="1571706194078" duration="1463000" />
+      <workItem from="1571712221358" duration="239000" />
+      <workItem from="1571742923862" duration="9852000" />
+      <workItem from="1571754629301" duration="108000" />
+      <workItem from="1571806517198" duration="4252000" />
+      <workItem from="1572174158128" duration="587000" />
+      <workItem from="1572315153968" duration="2000" />
+      <workItem from="1573352667007" duration="86000" />
+      <workItem from="1573520832215" duration="9000" />
+      <workItem from="1573540432844" duration="2909000" />
+      <workItem from="1573557562199" duration="27000" />
+      <workItem from="1573558194847" duration="207000" />
+      <workItem from="1573558573907" duration="677000" />
+      <workItem from="1573622935708" duration="687000" />
+      <workItem from="1573691475435" duration="6225000" />
+      <workItem from="1573741305827" duration="17568000" />
+      <workItem from="1574388956353" duration="1618000" />
+      <workItem from="1574469489258" duration="1873000" />
+      <workItem from="1574557643826" duration="19363000" />
+      <workItem from="1574592043922" duration="833000" />
+      <workItem from="1574728307634" duration="537000" />
+      <workItem from="1575006729483" duration="8287000" />
+      <workItem from="1575032154300" duration="1136000" />
+      <workItem from="1575033738864" duration="5043000" />
+      <workItem from="1575083920960" duration="11197000" />
+      <workItem from="1575112630212" duration="153000" />
+      <workItem from="1575112942724" duration="3506000" />
+      <workItem from="1575168240702" duration="6416000" />
+      <workItem from="1575332694898" duration="357000" />
+      <workItem from="1575342897741" duration="9770000" />
+      <workItem from="1575371022964" duration="216000" />
+      <workItem from="1575371292033" duration="9791000" />
+      <workItem from="1575381441243" duration="3578000" />
+      <workItem from="1575441553136" duration="90000" />
+      <workItem from="1575508705183" duration="18329000" />
+      <workItem from="1575554529631" duration="805000" />
+      <workItem from="1575555879655" duration="590000" />
+      <workItem from="1575598154312" duration="9240000" />
+      <workItem from="1575649723654" duration="517000" />
+      <workItem from="1575687671369" duration="6300000" />
+      <workItem from="1575787738149" duration="456000" />
+      <workItem from="1575788236671" duration="69000" />
+      <workItem from="1575854585881" duration="629000" />
+      <workItem from="1575857166039" duration="360000" />
+      <workItem from="1575868636067" duration="3347000" />
+      <workItem from="1575872512158" duration="289000" />
+      <workItem from="1575889445801" duration="1248000" />
+      <workItem from="1575940593510" duration="4446000" />
+      <workItem from="1575945560265" duration="13533000" />
+      <workItem from="1575960349266" duration="2331000" />
+      <workItem from="1575977125606" duration="9478000" />
+      <workItem from="1576049591231" duration="282000" />
+      <workItem from="1576049941653" duration="590000" />
+      <workItem from="1576114647650" duration="2888000" />
+      <workItem from="1576119617663" duration="4673000" />
+      <workItem from="1576199010013" duration="9227000" />
+      <workItem from="1576214393313" duration="6934000" />
+      <workItem from="1576391082978" duration="9330000" />
+      <workItem from="1576404611818" duration="1189000" />
+      <workItem from="1576459896885" duration="20953000" />
+      <workItem from="1576544560856" duration="4050000" />
+      <workItem from="1576557507365" duration="3089000" />
+      <workItem from="1576561070279" duration="4736000" />
+      <workItem from="1576579860900" duration="2105000" />
+      <workItem from="1576639130299" duration="9999000" />
+      <workItem from="1576667407540" duration="19403000" />
+      <workItem from="1576718297185" duration="20877000" />
+      <workItem from="1576750755409" duration="19096000" />
+      <workItem from="1576801477411" duration="1751000" />
+      <workItem from="1576826717326" duration="1793000" />
+      <workItem from="1577113295062" duration="5507000" />
+      <workItem from="1577286983349" duration="1194000" />
+      <workItem from="1577334657477" duration="926000" />
+      <workItem from="1577584282468" duration="22311000" />
+      <workItem from="1577667482439" duration="1778000" />
+      <workItem from="1577670748634" duration="472000" />
+      <workItem from="1577680725894" duration="7127000" />
+      <workItem from="1577757296829" duration="6301000" />
+      <workItem from="1577848504190" duration="10046000" />
+      <workItem from="1577866189287" duration="1512000" />
+      <workItem from="1577867745660" duration="631000" />
+      <workItem from="1577868417951" duration="1329000" />
+      <workItem from="1577925577923" duration="1002000" />
+      <workItem from="1578129955467" duration="69000" />
+      <workItem from="1578450862232" duration="4860000" />
+      <workItem from="1578478351193" duration="16576000" />
+      <workItem from="1578537357591" duration="8806000" />
+      <workItem from="1578548157594" duration="1618000" />
+      <workItem from="1578549828368" duration="7170000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="454618000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83716816" visible="true" weight="0.20953101" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.16283186" side_tool="true" visible="true" weight="0.20953101" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3277311" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Application Servers" order="12" weight="0.17713365" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.05042017" />
+      <window_info anchor="bottom" id="Run" order="14" visible="true" weight="0.05042017" />
+      <window_info anchor="bottom" id="Inspection Results" order="15" weight="0.36134455" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8796117" weight="0.23903178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.12038835" side_tool="true" weight="0.23903178" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3277311" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Application Servers" order="12" weight="0.17713365" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Run" order="14" visible="true" weight="0.13445379" />
+      <window_info anchor="bottom" id="Inspection Results" order="15" weight="0.36134455" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1512">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/sys/admin-slider.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/sys/admin-employee.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/sys/spaghetti-rice.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="138" column="13" selection-start-line="138" selection-start-column="13" selection-end-line="138" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/css/admin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/include-files/header-admin.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/sys/admin-home.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="99" selection-start-line="20" selection-start-column="99" selection-end-line="20" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/sys/admin-combo-fix.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/sys/admin-pizza-fix.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/sys/admin-small-product-fix.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/sys/admin-employee-fix.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="27" column="85" lean-forward="true" selection-start-line="27" selection-start-column="85" selection-end-line="27" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/sys/sign-up.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="22" column="114" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/website/admin/dao/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="66" column="53" lean-forward="true" selection-start-line="66" selection-start-column="53" selection-end-line="66" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/website/admin/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/website/admin/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/website/model/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/website/dao/AccountDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/sys/admin-user-fix.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="50" column="18" lean-forward="true" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/website/admin/controller/FixUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="47" column="9" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="47" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/sys/admin-user.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="69" column="33" lean-forward="true" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/include-files/footer-user.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="58" lean-forward="true" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/website/controller/CartLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/website/controller/createCart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="51" column="48" lean-forward="true" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/website/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="32" column="35" lean-forward="true" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/css/products.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="135" column="10" selection-start-line="135" selection-start-column="10" selection-end-line="135" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/css/cart.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/sys/manage-account.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="99" column="16" selection-start-line="99" selection-start-column="16" selection-end-line="103" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/website/admin/controller/SmallProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-528">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/website/admin/dao/ProductsDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="62" column="4" lean-forward="true" selection-start-line="62" selection-start-column="4" selection-end-line="72" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/img/bill.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/css/order.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-480">
+          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/sys/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="84" column="8" selection-start-line="84" selection-start-column="8" selection-end-line="96" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/website/controller/AddToCart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-816">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/website/controller/FixAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="44" column="12" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/sys/admin-pizza-add.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/sys/admin-pizza.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1656" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/website/model/Cart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/website/model/Bill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/website/admin/model/CartProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/website/controller/ManageAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/website/controller/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/sys/cart.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="99" column="17" lean-forward="true" selection-start-line="99" selection-start-column="17" selection-end-line="99" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/css/main-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="416" column="17" lean-forward="true" selection-start-line="416" selection-start-column="17" selection-end-line="416" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/sys/admin-order.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="77" column="16" lean-forward="true" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#th#5;n#tr#0;n#thead#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/include-files/header-user.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="33" column="72" selection-start-line="33" selection-start-column="72" selection-end-line="33" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/sys/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Project Final/sys/bill.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/website/admin/controller/CartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/website/dao/BillDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/website/controller/BillController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Inteliji:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Inteliji</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,201 @@
+a{
+    text-decoration: none;
+}
+
+i{
+    font-size: 20px;
+    margin: 10px;
+    color: whitesmoke;
+}
+
+.hide{
+    display: none;
+}
+
+#order-form{
+    color: whitesmoke;
+    font-family: Arial;
+    text-align: center;
+    background: #363434;
+    border-radius: 10px;
+}
+
+#title{
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.text-below-title{
+    margin: 18px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#option-left{
+    margin-left: 160px;
+    float: left;
+}
+
+.choose{
+    margin: 26px;
+}
+
+.address{
+    margin: 17px;
+}
+
+.address-text{
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.address-input{
+    padding: 5px;
+    margin: 5px;
+    width: 300px;
+}
+
+.order-btn{
+    padding: 10px 40px;
+    background: #d3634e;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.order-btn:hover{
+    background: whitesmoke;
+    color: black;
+    transition: all 0.4s;
+}
+
+.return-btn{
+    margin: 10px;
+    padding: 10px 40px;
+    background: #d3634e;
+    color: white;
+    border-radius: 10px;
+}
+
+.return-btn:hover{
+    background: whitesmoke;
+    color: black;
+    transition: all 0.4s;
+}
+
+#input-info{
+    margin: 20px;
+}
+
+.input-text{
+    padding: 8px 20px;
+    margin: 5px;
+}
+
+#account-action{
+    margin: 20px;
+}
+
+#login-btn{
+    padding: 10px 70px;
+    border-radius: 10px;
+    background: #d3634e;
+    color: whitesmoke;
+    font-size: 15px;
+    margin-right: 10px;
+    margin-left: 105px;
+}
+
+#login-btn:hover{
+    background: white;
+    color: black;
+    transition: all 0.4s;
+}
+
+#forget-pass{
+    color: #fdd75f;
+}
+#order-section-4{
+    margin: 20px;
+}
+
+#sign-up-btn{
+    padding: 11px 60px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background: #d3634e;
+    color: whitesmoke;
+    font-size: 15px;
+}
+
+#sign-up-btn:hover{
+    background: white;
+    color: black;
+    transition: all 0.4s;
+}
+
+.city{
+    margin: 10px;
+    background: brown;
+    color: whitesmoke;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.city:hover{
+    background: #d3634e;
+    transition: 0.4s;
+}
+
+.region{
+    margin: 10px;
+    background: #00ad5f;
+    color: whitesmoke;
+    border-radius: 5px;
+    padding: 10px 15px;
+}
+
+.region:hover{
+    background: #fdd75f;
+    transition: 0.4s;
+}
+
+.address-content{
+    text-align: left;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+}
+
+.address-name{
+    color: crimson;
+    font-size: 20px;
+    margin: 5px;
+    font-weight: bolder;
+}
+
+.address-shop{
+    color: whitesmoke;
+    font-size: 15px;
+    margin: 5px;
+}
+
+.address-phone{
+    color: #fdd75f;
+    font-size: 13px;
+    margin: 5px;
+    font-weight: bold;
+}
+
+.address-btn{
+    background: #d3634e;
+    padding: 5px 15px;
+    color: whitesmoke;
+    border-radius: 10px;
+    margin: 5px 1px 20px 1px;
+}
+
+.address-btn:hover{
+    background: #00ad5f;
+    transition: 0.5s;
+}

@@ -1,0 +1,424 @@
+body{
+    font-family: Arial;
+    margin: 0px;
+    padding: 0px;
+    background: url("../img/background.jpg") fixed center;
+    background-size: 100% auto;
+}
+
+a{
+    text-decoration: none; !important;
+}
+
+/* === Header === */
+#header-wrapper{
+    width: 100%;
+    background: #1e1e1e;
+}
+
+#left-head{
+    text-align: center;
+}
+
+#left-head-nav{
+    height: 70px;
+    position: absolute;
+    top: 7%;
+    left: 10%;
+}
+
+#login-section{
+    margin-bottom: 20px;
+}
+
+#login-section a{
+    color: whitesmoke;
+    margin: 5px;
+}
+
+#login-section a:hover{
+    color: #e1c055;
+    transition: all 0.4s;
+}
+
+#login-section i{
+    color: #e1c055;
+    text-align: center;
+}
+
+#language-section a{
+    color: #e1c055;
+    margin: 10px;
+}
+
+#mid-head{
+    text-align: center;
+}
+
+#right-head{
+    text-align: center;
+}
+
+#order{
+    position: absolute;
+    top: 10%;
+    right: 10%;
+}
+
+#order-btn{
+    background: #fdd75f;
+    color: #3e403e;
+    font-weight: bolder;
+    padding: 15px 30px;
+    border-radius: 10px;
+}
+
+#order-btn:hover{
+    background: whitesmoke;
+    transition: all 0.4s;
+}
+/* End Header*/
+
+/* Menu Bar */
+#menu-wrapper {
+    background: #1e1e1e;
+    width: 100%;
+    height: 40px;
+}
+
+#menu-element {
+    color: white;
+    text-align: center;
+}
+
+#menu-element a {
+    font-size: 20px;
+    color: #b4b4b4;
+    margin: 10px;
+}
+
+#menu-element a:hover {
+    border-bottom: 2px dashed saddlebrown;
+    transition: all 0.2s;
+}
+
+/*END OF MENU BAR*/
+
+/* BANNER */
+#banner-wrapper{
+    margin-top: 30px;
+}
+/* END OF BANNER */
+
+/* INFORMATION */
+#info-wrapper{
+    background: rgba(0,0,0,0.3);
+    display: table;
+    border-bottom: 1px solid whitesmoke;
+    text-align: center;
+}
+
+h5{
+    color: #b4b4b4;
+}
+
+.info-col{
+    display: table-cell;
+}
+
+#menu-shortcut-element a, #address-shortcut-element a{
+    color: #e1c055;
+}
+
+#feedback-shortcut-element a i{
+    color: #e1c055;
+    margin-right: 10px;
+}
+/* END OF INFORMATION*/
+
+/* FOOTER */
+#footer-wrapper{
+    text-align: center;
+}
+
+/*Login*/
+.title-login{
+    /*position: absolute;*/
+    float: top;
+    color: whitesmoke;
+    font-size: 35px;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    font-family: Tahoma, Arial;
+    font-weight: bold;
+}
+.login-account{
+    border: 1px ;
+    background:  rgba(0,0,0,0.51);
+    height: auto;
+    margin-bottom: 20px;
+    color: white;
+    border-radius: 5px;
+}
+.title{
+    font-family: Tahoma, Arial;
+    font-size: 27px;
+    margin-left: 10px;
+    margin-top: 10px;
+    color: whitesmoke;
+}
+.email, .pass, .check, .button-login{
+    font-size: 20px;
+    margin: 20px;
+}
+.input-your-email, .input-your-pass{
+    width: 100%;
+}
+.text-checks{
+    float: right;
+    color: #8d3529;
+    margin-right: 100px;
+}
+.button-login{
+    text-align: center;
+}
+
+.button{
+    width: 250px;
+    border-radius: 10px;
+    background: crimson ;
+    color: whitesmoke;
+    opacity: 0.7;
+}
+.button:hover{
+    opacity: 2;
+    cursor: pointer;
+    transition: all 0.4s;
+}
+.text-checks:hover{
+    text-decoration: underline;
+    color: red;
+}
+.note{
+    border: 1px solid whitesmoke;
+    width: 400px;
+    height: auto;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+.text-check:hover{
+    cursor: pointer;
+}
+.text-checks:hover{
+    cursor: pointer;
+}
+.text-note{
+    color: whitesmoke;
+    font-size: 15px;
+
+}.account{
+     font-size: 16px;
+     font-weight: bold;
+     margin: 30px;
+    color: #16d373;
+ }
+.list-text{
+    font-family: Tahoma, Arial;
+    margin: 20px;
+    font-size: 17px;
+    color: #e1c055;
+}
+/*end Login*/
+
+/*forget password*/
+.text-forget{
+    color: whitesmoke;
+    font-weight: bold;
+    font-family: Tahoma, Arial;
+    font-size: 30px;
+    margin: 20px;
+}
+.border-forget{
+    background: rgba(0,0,0,0.51);
+    height: auto;
+    width: 700px;
+    margin-bottom: 20px;
+    color: whitesmoke;
+}
+.text-border-forget1{
+    font-size: 20px;
+    font-family: Tahoma, Arial;
+    font-weight: bold;
+}
+.text-border-forget{
+    margin: 20px;
+}
+.login-email{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.input-login-email{
+    width: 600px;
+    margin-top: 15px;
+}
+.button-login-emails{
+    width: 250px;
+    border-radius: 8px;
+    background: #8d241a;
+    margin-left: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+}
+.button-login-emails:hover{
+    background: red;
+    cursor: pointer;
+    transition: all 0.4s;
+}
+/*end forget password*/
+
+/*SIGN UP*/
+h2{
+    color: #16d373;
+    text-align: center;
+}
+
+#sign-up{
+    background: rgba(0,0,0,0.4);
+}
+
+.margin{
+    margin-left: 200px;
+    margin-bottom: 20px;
+}
+
+input{
+    border-radius: 6px;
+    padding: 5px 100px 5px 5px;
+    background: floralwhite;
+}
+
+#gender-select{
+    padding: 3px 40px;
+    font-size: 15px;
+    border-radius: 6px;
+}
+
+span{
+    color: #e1c055;
+    font-size: 18px;
+}
+
+.check-box-text{
+    color: white;
+    font-size: 15px;
+}
+
+.check-box-text:hover{
+    color: crimson;
+    transition: all 0.5s;
+}
+
+.check-text{
+    margin: 7px;
+}
+
+#sign-up-button{
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    background: crimson;
+}
+
+#sign-up-button:hover{
+    background: #16d373;
+    color: black;
+    transition: all 0.3s;
+}
+
+#home-button{
+    padding: 10px 10px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    background: crimson;
+}
+
+#home-button:hover{
+    background: #fdd75f;
+    color: black;
+    transition: all 0.3s;
+}
+/*END SIGN UP*/
+
+#email-validate, #pass-retype-validate, #email-retype-validate, #pass-validate, #last-name-validate, #first-name-validate{
+    color: rgba(211,138,74,0.91);
+}
+
+#pass-validate, #pass-retype-validate, #email-retype-validate, #email-validate, #last-name-validate, #first-name-validate{
+    display:none;
+    color: #000;
+    position: relative;
+    padding: 5px;
+    margin-top: 10px;
+}
+#pass-validate p, #email-retype-validate p, #pass-retype-validate p, #email-validate p, #last-name-validate p, #first-name-validate p{
+    padding: 10px 35px;
+    font-size: 15px;
+}
+
+/* Add a green text color and a checkmark when the requirements are right */
+.valid {
+    color: #16d373;
+    transition: all 0.5s;
+}
+
+.valid:before {
+    position: relative;
+    left: -35px;
+    content: "✔";
+}
+
+/* Add a red text color and an "x" when the requirements are wrong */
+.invalid {
+    color: crimson;
+    transition: all 0.5s;
+}
+
+.invalid:before {
+    position: relative;
+    left: -35px;
+    content: "✖";
+}
+
+/*Bill*/
+.info{
+    border: 1px dashed saddlebrown;
+    border-radius: 10px;
+}
+
+.title-bill{
+    font-size: 20px;
+    color: #dbdbdb;
+    margin: 5px;
+}
+
+.del-btn{
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 10px;
+    background: #fdd75f;
+    color: black;
+}
+
+.del-btn:hover{
+    background: white;
+    color: black;
+    transition: all 0.4s;
+}

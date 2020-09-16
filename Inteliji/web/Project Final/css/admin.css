@@ -1,0 +1,159 @@
+body{
+    font-family: Arial;
+    margin: 0px;
+    padding: 0px;
+    background: whitesmoke;
+}
+
+#top-nav{
+    width: 100%;
+    height: 65px;
+    background: #343a40;
+}
+
+.hide{
+    display: none;
+}
+
+.show{
+    display: block;
+}
+
+a{
+    text-decoration: none;
+}
+
+i{
+    color: #b4b4b4;
+}
+
+#side-nav-button{
+    float: left;
+    font-size:20px;
+    cursor:pointer;
+    position: relative;
+    top: 25%;
+    color: #00ad5f;
+}
+
+#logo{
+    float: left;
+    color: lightgrey;
+    font-size: 20px;
+    font-weight: bolder;
+    margin: 20px;
+}
+
+#top-nav i:hover{
+    color: #00ad5f;
+    transition: all 0.3s;
+}
+
+#message, #notification, #logout{
+    float: right;
+    font-size: 20px;
+    margin: 20px;
+}
+/* SIDE NAV */
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #343a40;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.sidenav a{
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 17px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+    margin: 15px;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+#content {
+    transition: margin-left .5s;
+    padding: 16px;
+    text-align: center;
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
+
+/* Optional: Style the caret down icon */
+.fa-caret-down {
+    float: right;
+    padding-right: 8px;
+}
+
+.dropdown-btn {
+    text-decoration: none;
+    display: block;
+    cursor: pointer;
+}
+
+/* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
+.dropdown-container {
+    display: none;
+    background-color: #262626;
+    padding-left: 8px;
+}
+
+/* item */
+.item{
+    background: #00ad5f;
+    color: whitesmoke;
+    font-size: 17px;
+    font-weight: bold;
+    border-radius: 7px;
+    text-align: center;
+    margin: 10px;
+    height: 130px;
+}
+
+.item:hover{
+    background: #d3634e;
+    transition: all 0.6s;
+}
+
+.item:hover > i{
+    font-size: 50px;
+    color: #fdd61f;
+    transition: all 0.4s;
+}
+
+.item i{
+    color: #fdd75f;
+    font-size: 40px;
+    margin: 10px;
+}
+
+#footer{
+    margin-top: 60px;
+    font-size: 18px;
+}
+
+h1, h2, h3, h4, h5, h6{
+    color: #00ad5f;
+}

@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Inteliji:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Inteliji_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Inteliji/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Inteliji" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

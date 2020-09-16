@@ -1,0 +1,196 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url("../img/background.jpg");
+    background-size: 1366px 1080px;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    !important;
+}
+
+/* === Header === */
+#header-wrapper{
+    width: 100%;
+    height: 141px;
+    background: #1e1e1e;
+    display: table;
+    table-layout: fixed;
+}
+
+.head-col{
+    display: table-cell;
+}
+
+#left-head{
+    text-align: center;
+}
+
+#left-head-nav{
+    height: 70px;
+    position: absolute;
+    top: 7%;
+    left: 10%;
+}
+
+#login-section{
+    margin-bottom: 20px;
+}
+
+#login-section a{
+    color: whitesmoke;
+    margin: 5px;
+}
+
+#login-section a:hover{
+    color: #e1c055;
+    transition: all 0.4s;
+}
+
+#login-section i{
+    color: #e1c055;
+}
+
+#language-section a{
+    color: #e1c055;
+    margin: 10px;
+}
+
+#mid-head{
+    text-align: center;
+}
+
+#right-head{
+    text-align: center;
+}
+
+#order{
+    position: absolute;
+    top: 10%;
+    right: 10%;
+}
+
+#order-btn{
+    background: #fdd75f;
+    color: #3e403e;
+    font-weight: bolder;
+    padding: 15px 30px;
+    border-radius: 10px;
+}
+
+#order-btn:hover{
+    background: whitesmoke;
+    transition: all 0.4s;
+}
+/* End Header*/
+
+/* Menu Bar */
+#menu-wrapper{
+    background: #1e1e1e;
+    width: 100%;
+    height: 40px;
+}
+
+#menu-element{
+    color: white;
+    text-align: center;
+}
+
+#menu-element a{
+    font-size: 20px;
+    color: #b4b4b4;
+    margin: 40px;
+}
+
+#menu-element a:hover{
+    border-bottom: 2px solid saddlebrown;
+    transition: all 0.2s;
+}
+
+@keyframes fade
+{
+    0%   {opacity:1}
+    33.333% { opacity: 0}
+    66.666% { opacity: 0}
+    100% { opacity: 1}
+}
+@keyframes fade2
+{
+    0%   {opacity:0}
+    33.333% { opacity: 1}
+    66.666% { opacity: 0 }
+    100% { opacity: 0}
+}
+@keyframes fade3
+{
+    0%   {opacity:0}
+    33.333% { opacity: 0}
+    66.666% { opacity: 1}
+    100% { opacity: 0}
+}
+
+/*address*/
+#address{
+    color: white;
+}
+#address .store{
+    border-top: 1px solid #555eff;
+}
+#address .store .store_item{
+    margin-bottom: 20px;
+}
+
+
+/*end address*/
+
+
+/* CONTENT */
+#content-wrapper{
+    margin-top: 60px;
+}
+
+#left-content{
+    float: left;
+}
+
+#right-content{
+    float: right;
+}
+.break{
+    text-align: center;
+}
+/* END OF CONTENT */
+
+/* INFORMATION */
+#info-wrapper{
+    background: rgba(0,0,0,0.3);
+    display: table;
+    border-bottom: 1px solid whitesmoke;
+}
+
+h5{
+    color: #b4b4b4;
+}
+
+.info-col{
+    display: table-cell;
+}
+
+#menu-shortcut-element a, #address-shortcut-element a{
+    color: #e1c055;
+}
+
+#feedback-shortcut-element a i{
+    color: #00ad5f;
+    margin-right: 10px;
+}
+/* END OF INFORMATION*/
+
+/* FOOTER */
+#footer-wrapper{
+    text-align: center;
+}
+
+
